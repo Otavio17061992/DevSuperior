@@ -1,0 +1,15 @@
+/workspaces/DevSuperior/TopicosIniciais/CSharp/bin/Debug/net8.0/CSharp
+/workspaces/DevSuperior/TopicosIniciais/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/workspaces/DevSuperior/TopicosIniciais/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/workspaces/DevSuperior/TopicosIniciais/CSharp/bin/Debug/net8.0/CSharp.dll
+/workspaces/DevSuperior/TopicosIniciais/CSharp/bin/Debug/net8.0/CSharp.pdb
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.sourcelink.json
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.dll
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.pdb
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/workspaces/DevSuperior/TopicosIniciais/CSharp/obj/Debug/net8.0/ref/CSharp.dll
